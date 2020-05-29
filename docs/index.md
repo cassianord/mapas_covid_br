@@ -8,14 +8,17 @@ Cartogramas são mapas onde a área de cada unidade geográfica é distorcia de 
 
 Abaixo você confere alguns cartogramas da COVID-19. Antes, duas observações:
 
-1. Os mapas podem demorar para carregar. Com um pouquinho de paciência você poderá visualizá-los =)
+1. Os mapas nessa página não são interativos, pra deixar o carregamento mais leve. Abaixo de cada cartograma há um link para as versões interativas, onde é possível ver os números nos municípios. Como eles são pesados, podem demorar para carregar. Com um pouquinho de paciência você poderá visualizá-los =)
 2. O algoritmo gerador dos cartogramas não funciona adequadamente quando a variável de interesse é nula ou zero em alguma unidade geográfica. Devido a isso, transformei os valores nulos e zeros em 1. Municípios que apresentam apenas 1 caso, portanto, não devem ser interepretados como necessariamente possuindo algum caso de COVID-19.
 
 #### Cartograma da COVID-19 em Santa Catarina
 
+![mapa_Sc](https://cassianord.github.io/mapas_interativos/images/cartograma_SC_28_05.png)
+
+
 <iframe src="https://cassianord.github.io/mapas_interativos/topo_sc.html" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="1200px" allowfullscreen></iframe>
 
-[Link para o mapa](https://cassianord.github.io/mapas_interativos/images/topo_sc.html)
+[Link para a versão interativa do mapa](https://cassianord.github.io/mapas_interativos/images/topo_sc.html)
 
 
 #### Cartograma da COVID-19 no Brasil
@@ -24,6 +27,7 @@ No caso do Brasil, anexei aqui a imagem estática, porque a interativa é muito 
 
 ![mapa_br](https://cassianord.github.io/mapas_interativos/images/carto_br_28_05.png)
 
-[Link para a versão interativa mapa](https://cassianord.github.io/mapas_interativos/images/carto_br.html)
+[Link para a versão interativa do mapa](https://cassianord.github.io/mapas_interativos/images/carto_br.html)
 
 
+Os cartogramas foram gerados através do pacote `topogram` no R. 
