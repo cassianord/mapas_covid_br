@@ -28,3 +28,4 @@ No caso do Brasil, anexei aqui a imagem estática, porque a interativa é muito 
 
 
 Os cartogramas foram gerados através do pacote `topogram` no R. 
+
