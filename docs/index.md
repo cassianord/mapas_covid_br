@@ -28,13 +28,6 @@ No caso do Brasil, anexei aqui a imagem estática, porque a interativa é muito 
 
 
 
-### Relação do avanço da COVID-19 no território com as Redes Urbanas do Brasil
-
-Cidades mais importantes na hierarquia urbana do país tendem a apresentar casos da COVID-19 mais cedo. Em contraste, cidades de menor preponderância na rede urbana, e mais distantes dos centros importantes, tendem a apresentar os primeiros casos apenas mais tarde.
-
-A imagem abaixo apresenta a disseminação da COVID-19 nas cidades de Santa Catarina conjuntamente com a rede urbana da REGIC, elaborada pelo IBGE.
-
-![casosxregic](https://github.com/cassianord/covid_redes/blob/GIFs/GIF%20Ordem%20x%20Redes%20(27-05).gif)
 
 
 (em breve, outros mapas!)
