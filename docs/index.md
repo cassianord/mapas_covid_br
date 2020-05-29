@@ -30,6 +30,6 @@ No caso do Brasil, anexei aqui a imagem estática, porque a interativa é muito 
 (em breve, outros mapas!)
 
 -----------------------------------------
-Os cartogramas foram gerados através do pacote `topogram` no R. 
-Os dados da COVID-19 foram obtidos do [Brasil.io](https://brasil.io/home/)
+- Os cartogramas foram gerados através do pacote `topogram` no R. 
+- Os dados da COVID-19 foram obtidos do [Brasil.io](https://brasil.io/home/)
 
