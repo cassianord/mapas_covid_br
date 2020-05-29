@@ -1,7 +1,8 @@
 ## Welcome to GitHub Pages
 
 
-[link](https://cassianord.github.io/mapas_interativos/topo_sc.html)
+[Topograma dos Casos de COVID-19 em Santa Catarina](https://cassianord.github.io/mapas_interativos/images/topo_sc.html)
+![link](https://cassianord.github.io/mapas_interativos/images/topo_sc.html)
 
 You can use the [editor on GitHub](https://github.com/cassianord/mapas_interativos/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
