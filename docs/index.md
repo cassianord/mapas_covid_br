@@ -27,5 +27,9 @@ No caso do Brasil, anexei aqui a imagem estática, porque a interativa é muito 
 [Link para a versão interativa do mapa](https://cassianord.github.io/mapas_covid_br/images/carto_br.html)
 
 
+(em breve, outros mapas!)
+
+-----------------------------------------
 Os cartogramas foram gerados através do pacote `topogram` no R. 
+Os dados da COVID-19 foram obtidos do [Brasil.io](https://brasil.io/home/)
 
