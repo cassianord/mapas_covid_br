@@ -20,8 +20,6 @@ Abaixo você confere alguns cartogramas da COVID-19. Antes, duas observações:
 
 #### Cartograma da COVID-19 no Brasil
 
-No caso do Brasil, anexei aqui a imagem estática, porque a interativa é muito pesada. 
-
 ![mapa_br](https://cassianord.github.io/mapas_covid_br/images/carto_br_28_05.png)
 
 [Link para a versão interativa do mapa](https://cassianord.github.io/mapas_covid_br/images/carto_br.html)
