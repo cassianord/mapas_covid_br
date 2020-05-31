@@ -26,6 +26,20 @@ Abaixo você confere alguns cartogramas da COVID-19. Antes, duas observações:
 
 
 
+### Interiorização, ordem dos casos e relação com a rede urbana
+
+A COVID-19 tem avançado rapidamente para municípios do interior do país. A disseminação da doença no território parece acompanhar as posições hierárquicas dos centros urbanos. Os GIFs abaixo contrastam a ordem de surgimento do primeiro caso nos nos municípios e a posição hierárquica das cidades, bem como suas redes de influência, segundo a classificação da pesquisa de Região de Influência das Cidades (REGIC), feita pelo IBGE.
+
+#### Avanço da COVID-19 nos municípios brasileiros e rede urbana
+
+![gif_br](https://cassianord.github.io/mapas_covid_br/images/GIF%20Ordem%20x%20Redes%20BR%20(31-05).gif)
+
+#### Avanço da COVID-19 em municípios do Sudeste/Sul e rede urbana
+
+Como a visualização do Brasil como um todo fica um tanto prejudicada para os municípios menores e onde há maior densidade de conexões, fiz um recorte com uma área abrangendo parte do Sudeste e Sul do país:
+
+![gif_sudeste](https://cassianord.github.io/mapas_covid_br/images/GIF%20Ordem%20x%20Redes%20Sudeste-Sul%20(31-05).gif)
+
 
 
 (em breve, outros mapas!)
